@@ -40,4 +40,4 @@ So far we have completed the installation of maven software to support maven plu
 2. Configure maven path
   - `Manage Jenkins` > `Global Tool Configuration` > `Maven`
 
-# new comment 
+# new code changed and need to be reviewed
